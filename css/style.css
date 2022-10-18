@@ -46,6 +46,8 @@
     color: rgb(68, 68, 68);
  }
 
+ /* targhette categorie */
+
  .editorial{
     background-color: rgba(11, 186, 255, 0.966);
     border-radius: 7px;
@@ -97,6 +99,8 @@
 .row{
     padding-top: 2%;
 }
+
+/* simboli */
 
 .cross{
     color: red;
