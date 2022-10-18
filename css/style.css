@@ -36,6 +36,16 @@
     padding: 1%;
  }
 
+ .category{
+    padding-top: 5%;
+ }
+
+ .categoryTitle{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(68, 68, 68);
+ }
+
  .editorial{
     background-color: rgba(11, 186, 255, 0.966);
     border-radius: 7px;
@@ -53,7 +63,7 @@
  }
  
 .recruiting{
-    background-color: rgba(45, 241, 176, 0.712);
+    background-color: rgba(0, 255, 157, 0.753);
     border-radius: 7px;
     padding: 4px 8px;
     color: white;
@@ -61,11 +71,31 @@
 }
 
 .mobile{
-    background-color: rgba(45, 241, 176, 0.712);
+    background-color: rgba(241, 162, 44, 0.986);
     border-radius: 7px;
     padding: 4px 8px;
     color: white;
     font-size: 10px;
+}
+
+.website{
+    background-color: rgba(255, 13, 174, 0.712);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.sales{
+    background-color: rgba(10, 255, 10, 0.712);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.row{
+    padding-top: 2%;
 }
 
 .cross{
