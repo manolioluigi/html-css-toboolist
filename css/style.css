@@ -7,9 +7,71 @@
     font-weight:bolder;
 }
 
-.box {
+.box{
     display: flex;
     align-items:center;
     padding-left: 2%;
     padding-top: 1%;
  }
+
+ #container{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+ }
+
+ #taskButton{
+    background-color: rgba(11, 186, 255, 0.966);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 1%;
+ }
+
+ #sectionButton{
+    background-color: white;
+    border: 1px solid rgba(11, 186, 255, 0.966);
+    color: rgba(11, 186, 255, 0.966);
+    border-radius: 5px;
+    padding: 1%;
+ }
+
+ .editorial{
+    background-color: rgba(11, 186, 255, 0.966);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+ }
+
+ .q1goals{
+    background-color: rgba(119, 0, 255, 0.712);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+ }
+ 
+.recruiting{
+    background-color: rgba(45, 241, 176, 0.712);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile{
+    background-color: rgba(45, 241, 176, 0.712);
+    border-radius: 7px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.cross{
+    color: red;
+}
+
+.check{
+    color: green;
+}
